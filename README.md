@@ -108,7 +108,7 @@ No projeto, atuo principalmente no **desenvolvimento Backend**.
 
 ### 🛸 Good news, everyone!
 
-<img src="https://media.gifdb.com/futurama-philip-j-fry-fxdblpg38qqbwdup.gif" width="300">
+<img src="./assets/futurama-fry.gif" width="300">
 
 ### Trying to be better.
 
