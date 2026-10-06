@@ -86,9 +86,11 @@ No projeto, atuo principalmente no **desenvolvimento Backend**.
 ## 📅 My GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byGlazed/output/snake-dark.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byGlazed/byGlazed/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byGlazed/byGlazed/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/byGlazed/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/byGlazed/byGlazed/output/snake.svg">
+</picture>
 </picture>
 
 ---
