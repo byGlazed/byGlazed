@@ -85,22 +85,24 @@ No projeto, atuo principalmente no **desenvolvimento Backend**.
 
 ## 🐍 My GitHub Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
 ## 🌐 Onde me encontrar
 
-<p>
-  <a href="www.instagram.com/gaab._.1">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" />
+<p align="left">
+  <a href="https://www.instagram.com/gaab._.1">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg">
   </a>
-  <a href="www.linkedin.com/in/iigabriel-moura">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/iigabriel-moura">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg">
   </a>
 </p>
+
+<div align="center">
+
 ---
 
 <div align="center">
