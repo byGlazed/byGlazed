@@ -98,7 +98,7 @@ No projeto, atuo principalmente no **desenvolvimento Backend**.
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.instagram.com/gaab._.1"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/iigabriel-moura"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.beecrowd.com.br/judge/pt/profile/1275581"><img src="./assets/beecrowdlogo.png" width="48"></a>
+  <a href="https://www.instagram.com/gaab._.1"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/iigabriel-moura"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://judge.beecrowd.com/pt/profile/1275581"><img src="./assets/beecrowdlogo.png" width="48"></a>
 </p>
 
 
