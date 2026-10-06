@@ -1,16 +1,115 @@
-## Hi there 👋
+# 👨‍💻 Gabriel Moura
 
-<!--
-**byGlazed/byGlazed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Trying to be better.
 
-Here are some ideas to get you started:
+Estudante de **Desenvolvimento de Software Multiplataforma**, interessado em desenvolvimento de software e principalmente em Backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de aprender colocando a mão na massa, criando projetos e explorando novas tecnologias. Atualmente estou estudando e trabalhando principalmente com **Go, Node.js, Python e Java**.
+
+> 🚗 *Where we're going, we don't need roads.*
+
+---
+
+## 🚀 Sobre mim
+
+* 🎓 Estudante de **Desenvolvimento de Software Multiplataforma**
+* 💻 Focado em **desenvolvimento Backend**
+* 🧠 Aprendendo constantemente através de projetos
+* 🛠️ Gosto de transformar ideias em projetos reais
+* 🎯 Atualmente explorando **Go, Node.js, Python e Java**
+* 📚 Interesse em APIs, bancos de dados, desenvolvimento web e sistemas
+
+---
+
+## 🧰 Tecnologias
+
+### Linguagens
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,python,java" />
+</p>
+
+### Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,mysql,linux" />
+</p>
+
+---
+
+## 📌 Projetos
+
+### 🎬 [Adivinhe o Filme](https://github.com/byGlazed/adivinhe-o-filme)
+
+Jogo web desenvolvido em **Go**, criado para explorar desenvolvimento backend, APIs e integração com inteligência artificial.
+
+A ideia é transformar o clássico jogo de adivinhar filmes e séries em uma experiência interativa, com diferentes modos de jogo.
+
+---
+
+### 🎵 Spotify Pessoal
+
+Projeto pessoal desenvolvido com **Node.js** para organizar e analisar minhas próprias playlists.
+
+A ideia é criar uma plataforma onde eu possa:
+
+* 🎧 Organizar minhas playlists
+* 📊 Acompanhar quantas vezes escuto cada música
+* 🔎 Visualizar meus hábitos musicais
+* 🎭 Descobrir qual playlist combina melhor com meu mood do momento
+
+Um projeto que mistura desenvolvimento web, dados e música.
+
+> 🔗 Repositório: **em breve**
+
+---
+
+### 🐾 [Patinhas Club](https://github.com/Luiz-HenriqueSV/Patinhas-Club)
+
+Projeto Integrador desenvolvido para centralizar **adoção, resgate e divulgação de animais** em uma única plataforma.
+
+A plataforma reúne ONGs, protetores independentes e adotantes, oferecendo recursos para facilitar a divulgação dos animais e aumentar suas chances de encontrar um novo lar.
+
+No projeto, atuo principalmente no **desenvolvimento Backend**.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=byGlazed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byGlazed&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 My GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/iigabriel-moura">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/1275581">
+    <img src="https://img.shields.io/badge/beecrowd-2D2D2D?style=for-the-badge&logo=code&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🛸 Good news, everyone!
+
+<img src="https://media.gifdb.com/futurama-philip-j-fry-fxdblpg38qqbwdup.gif" width="300">
+
+### Trying to be better.
+
+</div>
