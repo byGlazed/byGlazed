@@ -93,23 +93,20 @@ No projeto, atuo principalmente no **desenvolvimento Backend**.
 
 ## 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/iigabriel-moura">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="www.instagram.com/gaab._.1">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" />
   </a>
-  <a href="https://judge.beecrowd.com/pt/profile/1275581">
-    <img src="https://img.shields.io/badge/beecrowd-2D2D2D?style=for-the-badge&logo=code&logoColor=white"/>
+  <a href="www.linkedin.com/in/iigabriel-moura">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg" />
   </a>
 </p>
-
 ---
 
 <div align="center">
 
-### 🛸 Good news, everyone!
-
 <img src="./assets/futurama-fry.gif" width="300">
 
-### Trying to be better.
+### 🛸 Good news, everyone!
 
 </div>
