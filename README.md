@@ -85,7 +85,7 @@ No projeto, atuo principalmente no **desenvolvimento Backend**.
 
 ## 📅 My GitHub Activity
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/byGlazed/byGlazed/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
