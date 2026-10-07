@@ -47,7 +47,7 @@ A ideia é transformar o clássico jogo de adivinhar filmes e séries em uma exp
 
 ---
 
-### 🎵 Spotify Pessoal
+### 🎵 [Spotify Pessoal](https://github.com/byGlazed/spotify-pessoal)
 
 Projeto pessoal desenvolvido com **Node.js** para organizar e analisar minhas próprias playlists.
 
@@ -59,8 +59,6 @@ A ideia é criar uma plataforma onde eu possa:
 * 🎭 Descobrir qual playlist combina melhor com meu mood do momento
 
 Um projeto que mistura desenvolvimento web, dados e música.
-
-> 🔗 Repositório: **em breve**
 
 ---
 
