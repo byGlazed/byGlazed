@@ -72,15 +72,6 @@ No projeto, atuo principalmente no **desenvolvimento Backend**.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=byGlazed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byGlazed&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
 ## 📅 My GitHub Activity
 
 <picture>
